@@ -29,3 +29,5 @@ I have currently seen four situations / configurations:
 My expectation would be for Option 3 to work the same way option 4 does. I was also "mildly surprised" option 2 worked correctly.
 
 Reproducible with this repo using NSB 10.2.0
+
+See also what claude has to say about it :) have not checked that, but could be on the right way (what-claude-says.md)
