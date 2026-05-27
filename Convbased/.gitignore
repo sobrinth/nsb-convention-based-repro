@@ -1,0 +1,9 @@
+.vs/
+.idea/
+
+artifacts/
+
+.DS_Store
+
+bin/
+obj/
